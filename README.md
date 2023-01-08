@@ -5,6 +5,8 @@ Cópia do jogo mundialmente conhecido e que se tornou um clássico, **"Pong"**, 
 ## Sobre
 Foi criado a partir do curso [Lógica de programação: comece em lógica com o jogo Pong e Javascript](https://cursos.alura.com.br/course/pong-javascript), da plataforma **[Alura](https://www.alura.com.br/)**. O instrutor foi o [Guilherme Lima](https://cursos.alura.com.br/user/guilhermelima).
 
+Observação: esta versão **não é multiplayer**.
+
 ## Habilidades foram desenvolvidas:
 - Criação de variáveis
 - Funções
@@ -20,4 +22,4 @@ Foi criado a partir do curso [Lógica de programação: comece em lógica com o 
 Basta entrar no site, clicar com o mouse sobre a tela do jogo e jogar! :D
 
 ## Veja o projeto no ar!
-Clique [aqui](https://m-ipt.github.io/barbearia_alura_parte_2/) para ver o projeto.
+Clique [aqui](https://m-ipt.github.io/Pong/) para ver o projeto.
