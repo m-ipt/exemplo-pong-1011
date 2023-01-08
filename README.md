@@ -7,7 +7,7 @@ Foi criado a partir do curso [Lógica de programação: comece em lógica com o 
 
 Observação: esta versão **não é multiplayer**.
 
-## Habilidades foram desenvolvidas:
+## Habilidades desenvolvidas:
 - Criação de variáveis
 - Funções
 - If, else
