@@ -16,10 +16,13 @@ Observação: esta versão **não é multiplayer**.
 - Outras bibliotecas dentro do **p5.js**, como a **[p5.collide2D](https://github.com/bmoren/p5.collide2D/)**, feita pelo [Ben Moren](https://github.com/bmoren). Com esse repositório, foi possível criar o efeito da *colisão* de objetos geométricos.
 
 ## Tecnologias utilizadas:
-<img height="20" src="https://happycoding.io/tutorials/p5js/images/hello-world-3.png"> <img height="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="20" src="https://img.shields.io/badge/p5.js-JavaScript-yellow">
 
 ## Como utilizar o projeto?
 Basta entrar no site, clicar com o mouse sobre a tela do jogo e jogar! :D
 
 ## Veja o projeto no ar!
 Clique [aqui](https://m-ipt.github.io/Pong/) para ver o projeto.
+
+## Licença
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
